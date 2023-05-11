@@ -5,7 +5,7 @@ Hello to [BigDevSoon](https://bigdevsoon.me/) 👋
 Create a simple yet stunning website to showcase your skills and personality as a developer. Challenge yourself to stand out and impress potential employers or clients.
 
 ## How to start
-
+j
 1. Start the project in our [app](https://app.bigdevsoon.me/) to get a feel for it.
 2. Review the requirements listed below in this README.
 3. Go through the design images on the [project's page](https://app.bigdevsoon.me/projects/business-card) and import the `.fig` file into Figma to understand the layout and design elements.
